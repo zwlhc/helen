@@ -102,6 +102,4 @@ theme: oranges
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  respository: https://zwlhc.github.io/helen
-  branch: main
+  type: ''
