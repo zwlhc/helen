@@ -1,0 +1,3 @@
+[submodule "themes/helenrice"]
+	path = themes/helenrice
+	url = https://github.com/zwlhc/hexo-theme-oranges
