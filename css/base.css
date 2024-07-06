@@ -29,7 +29,7 @@ body.hidden {
 
 @media (max-width: 768px) {
   .markdown-body {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
   }
 }
 
@@ -78,7 +78,7 @@ a:hover {
 }
 
 .header {
-  padding: 50px 0;
+  padding: 20px 0;
 }
 
 .container {
@@ -212,7 +212,7 @@ a:hover {
 
 .avatar {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
   margin-left: calc(100vw - 100%);
 }
 
@@ -226,7 +226,7 @@ a:hover {
   font-size: 2rem;
   font-weight: 600;
   color: var(--color-text-a);
-  padding-top: 10px;
+  padding-top: 16px;
 }
 
 .content {
