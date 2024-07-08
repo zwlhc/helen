@@ -405,7 +405,7 @@ a:hover {
 .post-details .post-attach {
   font-size: 1.4rem;
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
   color: var(--color-text-a);
   display: flex;
   align-items: center;

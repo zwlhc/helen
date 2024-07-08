@@ -1,4 +1,4 @@
-English | [简体中文](https://github.com/zchengsite/hexo-theme-oranges/blob/master/README-zh.md)
+English | [简体中文](https://github.com/zwlhc/hexo-theme-oranges/blob/master/README-zh.md)
 
 # hexo-theme-oranges
 
@@ -9,7 +9,7 @@ English | [简体中文](https://github.com/zchengsite/hexo-theme-oranges/blob/m
 ## Installation
 
 ```bash
-git submodule add https://github.com/zchengsite/hexo-theme-oranges.git themes/oranges
+git submodule add https://github.com/zwlhc/hexo-theme-oranges.git themes/oranges
 ```
 
 To update the theme in the future, just execute the `git pull` command in the theme root directory.

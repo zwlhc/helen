@@ -145,7 +145,7 @@ footer:
     -
       name: github
       icon: github
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      path: https://github.com/zwlhc/hexo-theme-oranges
     # -
     #   name: email
     #   icon: envelope
@@ -179,10 +179,10 @@ footer:
     # 如：{thisYear} 会被替换为今年年份
     -
       name: Copyright © {thisYear} Oranges
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      path: https://github.com/zwlhc/hexo-theme-oranges
     -
       name: Theme by Oranges | Powered by Hexo
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      path: https://github.com/zwlhc/hexo-theme-oranges
 
   # 浏览量统计
   # http://busuanzi.ibruce.info/

@@ -1,4 +1,4 @@
-[English](https://github.com/zchengsite/hexo-theme-oranges/blob/master/README.md) | 简体中文
+[English](https://github.com/zwlhc/hexo-theme-oranges/blob/master/README.md) | 简体中文
 
 # hexo-theme-oranges
 
@@ -11,7 +11,7 @@
 为了更为便捷的更新主题，建议使用添加 Git 子模块的方法安装，在 hexo 博客项目根目录下执行，会将`oranges`主题 clone 至`themes`文件夹下。
 
 ```bash
-git submodule add https://github.com/zchengsite/hexo-theme-oranges.git themes/oranges
+git submodule add https://github.com/zwlhc/hexo-theme-oranges.git themes/oranges
 ```
 
 日后更新主题只需要在主题根目录执行`git pull`命令即可。
