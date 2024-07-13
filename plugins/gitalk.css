@@ -15,7 +15,7 @@
 }
 
 .markdown-body .pl-c {
-  color: #6a737d;
+  color: #654321;
 }
 
 .markdown-body .pl-c1,
@@ -429,7 +429,7 @@
 
 .markdown-body blockquote {
   padding: 0 1em;
-  color: #6a737d;
+  color: #654321;
   border-left: 0.25em solid #dfe2e5;
 }
 
@@ -462,8 +462,8 @@
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-  margin-top: 24px;
-  margin-bottom: 16px;
+  margin-top: 20px;
+  margin-bottom: 12px;
   font-weight: 600;
   line-height: 1.25;
 }
@@ -523,7 +523,7 @@
 
 .markdown-body h6 {
   font-size: 0.85em;
-  color: #6a737d;
+  color: #654321;
 }
 
 .markdown-body ul,
@@ -541,10 +541,12 @@
 
 .markdown-body li>p {
   margin-top: 16px;
+  font-size: 0.9em;
 }
 
 .markdown-body li+li {
   margin-top: 0.25em;
+  font-size: 0.9em;
 }
 
 .markdown-body dl {
@@ -855,7 +857,7 @@
   background-color: #6190e8;
   color: #fff;
   outline: none;
-  font-size: 0.75em;
+  font-size: 0.9em;
 }
 .gt-container .gt-btn-text {
   font-weight: 400;

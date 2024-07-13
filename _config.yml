@@ -104,4 +104,4 @@ theme: helenrice
 deploy:
   type: git
   repository: https://github.com/zwlhc/helen
-  branch: main
+  branch: jekll
