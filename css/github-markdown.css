@@ -5,7 +5,7 @@
 }
 
 .markdown-body .pl-c {
-  color: #6a737d;
+  color: #654321;
 }
 
 .markdown-body .pl-c1,
@@ -454,8 +454,8 @@
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6 {
-  margin-top: 24px;
-  margin-bottom: 16px;
+  margin-top: 20px;
+  margin-bottom: 12px;
   font-weight: 600;
   line-height: 1.25;
 }
@@ -548,8 +548,8 @@
 }
 
 .markdown-body h6 {
-  font-size: 1.0em;
-  color: #6a737d;
+  font-size: 0.85em;
+  color: #654321;
 }
 
 .markdown-body ul,
@@ -567,14 +567,17 @@
 
 .markdown-body li {
   word-wrap: break-all;
+  font-size: 0.9em;
 }
 
 .markdown-body li > p {
   margin-top: 16px;
+  font-size: 0.9em;
 }
 
 .markdown-body li + li {
   margin-top: 0.25em;
+  font-size: 0.9em;
 }
 
 .markdown-body dl {
